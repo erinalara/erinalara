@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her!
 - ⚡ Fun fact: I love doing photography in my free time!
 
-[![Erina's GitHub stats](https://github-readme-stats.vercel.app/api?username=erinalara&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Erina's GitHub stats](https://github-readme-stats.vercel.app/api?username=erinalara&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
