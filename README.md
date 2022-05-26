@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a personal website!
-- 🌱 I’m currently learning Javascript and C#!
 - 😄 Pronouns: she/her!
 - ⚡ Fun fact: I love doing photography in my free time!
 
