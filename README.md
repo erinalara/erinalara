@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a personal website!
+- 🔭 I’m currently working on a Unity 2D game!
 - 😄 Pronouns: she/her!
 - ⚡ Fun fact: I love doing photography in my free time!
 
